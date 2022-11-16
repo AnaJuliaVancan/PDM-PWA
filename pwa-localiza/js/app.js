@@ -11,6 +11,7 @@ const latitude = document.getElementById('latitude');
 const longitude = document.getElementById('longitude');
 
 const sucesso = (posicao) => {
+    posicaoInicial = posicao
     latitude.innerHTML = posicaoInicial.coords.latitude;
     longitude.innerHTML = posicaoInicial.coords.longitude;
 };
