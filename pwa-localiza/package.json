@@ -1,0 +1,14 @@
+{
+  "name": "pwa-localiza",
+  "version": "1.0.0",
+  "description": "PWA de localização.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Júlia Benedito Vançan",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.1.1"
+  }
+}
