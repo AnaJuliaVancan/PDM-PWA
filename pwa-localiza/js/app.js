@@ -4,3 +4,4 @@ window.addEventListener('load', e => {
         navigator.serviceWorker.register("./sw.js");
     }
 }); 
+
